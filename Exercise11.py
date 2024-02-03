@@ -52,3 +52,6 @@ print(BelgiumSplit)
 # if we had larger data, how could we convert the data to a collection quickly and identify the items to add?
 
 # Alternative: slice the data? separate the collection into two.
+# checkjiya
+
+
